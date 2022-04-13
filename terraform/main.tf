@@ -11,7 +11,7 @@ module "sandbox-aft" {
   }
 
   account_tags = {
-    "Learn Tutorial" = "AFT"
+    "Update deployment" = "AFT"
   }
 
   change_management_parameters = {
