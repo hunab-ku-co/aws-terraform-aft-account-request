@@ -23,5 +23,5 @@ module "test1" {
     group = "non-prod"
   }
 
-  #account_customizations_name = "klz_type1"
+  account_customizations_name = "klz_type1"
 }
