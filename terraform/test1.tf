@@ -11,7 +11,7 @@ module "test1" {
   }
 
   account_tags = {
-    "Update deployment" = "AFT2"
+    "Update deployment" = "AFT3"
   }
 
   change_management_parameters = {
