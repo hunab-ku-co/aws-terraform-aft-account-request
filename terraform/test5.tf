@@ -9,7 +9,7 @@ module "test5" {
     SSOUserLastName           = "Siivonen"
   }
   account_tags = {
-    "Update deployment" = "AFT"
+    "Update deployment" = "AFT1"
   }
   change_management_parameters = {
     change_requested_by = "HashiCorp Learn"
